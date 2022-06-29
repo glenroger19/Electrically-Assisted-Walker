@@ -10,4 +10,4 @@ Step 5 : Perform a simulation of the motor with different resisting torque.
 Step 6 : Carry out a simulation of the motor speed control and choose a corrector.
 Step 7 : Vary the gain of a proportional corrector and the gain of an integral corrector to have an accurate, fast and stable system.
 
-Thanks for your interest and hope to colaborate soon.
+Thanks for your interest and hope to colaborate soon!
